@@ -1,0 +1,1 @@
+# Curso_Clouseres_Scope_JS
