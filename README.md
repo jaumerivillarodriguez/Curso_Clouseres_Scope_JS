@@ -1,1 +1,1 @@
-# Curso_Clouseres_Scope_JS
+# Curso_Closures_Scope_JS
